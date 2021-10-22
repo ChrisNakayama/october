@@ -14,8 +14,8 @@ Software Requirements
 * An internet browser of your choice; I prefer Chrome
 * A code editor; I prefer VSCode
 
-Link to Portfolio on Github Pages:
-* https://chrisnakayama.github.io/Christopher-Nakayama/
+Link to October on Github Pages:
+* https://chrisnakayama.github.io/october/
 
 To Download or Clone:
 * Navigate to: https://github.com/ChrisNakayama/october 
