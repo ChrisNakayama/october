@@ -6,7 +6,7 @@
 
 ## 📋 Description
 
-[A Webpage that covers my experience]
+[A Webpage that covers my work experience, interests and background]
 
 ## ⚙️ Setup/Installation Requirements 
 
